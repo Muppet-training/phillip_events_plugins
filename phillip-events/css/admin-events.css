@@ -1,0 +1,43 @@
+ul {
+	padding-top: 20px;
+}
+
+li.text_input_group {
+	display: grid;
+	grid-template-columns: 170px auto;
+	grid-template-rows: 40px;
+	line-height: 40px;
+	margin-bottom: 20px;
+}
+
+li.date_input_group {
+	display: grid;
+	grid-template-columns: 170px auto;
+	grid-template-rows: 40px;
+	line-height: 40px;
+	margin-bottom: 20px;
+}
+
+.input_title {
+	grid-area: title;
+}
+
+.quicktags-toolbar {
+	grid-area: quicktags;
+}
+
+.ed_button {
+	margin-right: 5px !important;
+}
+
+.textarea_grid {
+	grid-area: textarea;
+}
+
+label {
+	font-weight: bold;
+}
+
+#titlediv #title-prompt-text {
+	padding: 5px 10px !important;
+}
