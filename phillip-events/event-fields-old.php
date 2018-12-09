@@ -272,3 +272,68 @@ add_action('save_post', 'phillip_meta_save');
 <label class="input_title" for="event_description">Event Description</label>
 <textarea class="textarea_grid" name="event_description" id="event_description" rows="5"><?php echo esc_attr( get_post_meta( $post->ID, 'event_description', true ) ); ?> </textarea>
 </li>
+
+
+
+$date = "04-12-2018 12:59 PM";
+$date_input = "04-12-2018 13:00";
+$another_date = "04-12-2018 01:00 PM" ;
+
+echo $input . ' - input <br>';
+echo $date . ' - date <br>';
+echo $date_input . ' - date_input <br>';
+echo $another_date . ' - another_date <br>';
+
+var_dump($input);
+echo '<br/>';
+var_dump($date);
+echo '<br/>';
+var_dump($date_input);
+echo '<br/>';
+var_dump($another_date);
+echo '<br/>';
+
+// echo $date->format('d-m-Y h:i A');
+
+$just = DateTime::createFromFormat('d-m-Y h:i a', $input)->format('d-m-Y');
+echo $just  . '<br/>';
+echo DateTime::createFromFormat('d-m-Y H:i A', $date)->format('d-m-Y') . '<br/>';
+echo DateTime::createFromFormat('d-m-Y H:i', $date_input)->format('d-m-Y') . '<br/>';
+echo DateTime::createFromFormat('d-m-Y h:i A', $another_date)->format('d-m-Y') . '<br/><hr/>';
+
+
+
+<li class="date_input_group">
+<label for="event_start_date">Event Start</label>
+<div class="form-group">
+  <div class='input-group date' id='datetimepicker6'>
+    <input type='text' class="form-control" name="event_start_date" id="event_start_date" 
+    value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_start_date', true )); ?>"/>
+    <span class="input-group-addon">
+      <span class="glyphicon glyphicon-calendar"></span>
+    </span>
+  </div>
+</div>
+</li>
+<li class="date_input_group">
+<label for="event_start_date">Event End</label>
+<div class="form-group">
+  <div class='input-group date' id='datetimepicker7'>
+    <input data-format="dd/MM/yyyy hh:mm:ss" type='text' class="form-control" name="event_end_date" id="event_end_date"
+    value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_end_date', true )); ?>"/>
+    <span class="input-group-addon">
+      <span class="glyphicon glyphicon-calendar"></span>
+    </span>
+  </div>
+</div>
+</li>
+
+    // echo $input  . '<br/><hr/>';
+    // echo $event_time_timestamp . ' - Input Exact <br/>';
+    // echo $midnight_stamp . ' - Input Midnight <br/>';
+    // echo $tomorrow = strtotime('+1 day', $midnight_stamp) . ' - Input Tomorrow';
+    // echo '<hr/>';
+    // die();
+   
+    // update_post_meta( $post_id, 'event_start_date', $timestamp );
+    // update_post_meta( $post_id, 'event_day_start_timestamp', $midnight_stamp );
