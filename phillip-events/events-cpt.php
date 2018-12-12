@@ -50,7 +50,7 @@ function phillip_register_event_post_type() {
       'feeds' => false
     ),
     'supports'            => array (
-      'title', 'thumbnail', //'editor', 'author', 'custom-fields', '
+      'title', 'thumbnail', 'editor' //'editor', 'author', 'custom-fields', '
     )
   );
 

@@ -86,7 +86,7 @@ function smashing_post_class_meta_box( $post ) { ?>
           $content  = get_post_meta( $post->ID, 'event_description', true);
           $editor   = 'event_description';
           $settings = array(
-            'textarea_rows' => 5,
+            'textarea_rows' => 35,
             'media_buttons' => false
           );
           wp_editor(
