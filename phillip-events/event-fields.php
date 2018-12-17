@@ -8,7 +8,7 @@
 add_action( 'init', 'phillip_meta_boxes_setup' );
 
 /* Meta box setup function. */
-function phillip_meta_boxes_setup() {
+function phillip_meta_boxes_setup() { 
 
   /* Add meta boxes on the 'add_meta_boxes' hook. */
   add_action( 'add_meta_boxes', 'phillip_add_event_meta_boxes' );
@@ -24,17 +24,24 @@ function phillip_add_event_meta_boxes() {
   add_meta_box(
     'phillip_name',      // Unique ID
     esc_html__( 'Event Details', 'event' ),    // Title
-    'smashing_post_class_meta_box',   // Callback function
+    'event_post_class_meta_box',   // Callback function
     'event',         // Admin page (or post type)
     'normal',         // Context
     'default'         // Priority
   );
+  
+  add_meta_box(
+    'phillip_organiser',      // Unique ID
+    esc_html__( 'Event Organiser', 'organiser' ),    // Title
+    'organiser_post_class_meta_box',   // Callback function
+    'event',         // Admin page (or post type)
+    'side',         // Context
+    'high'         // Priority
+  );
 }
 
-
-
 /* Display the post meta box. */
-function smashing_post_class_meta_box( $post ) { ?>
+function event_post_class_meta_box( $post ) { ?>
 
 <?php wp_nonce_field( basename( __FILE__ ), 'phillip_event_nonce' ); ?>
   <ul>
@@ -69,6 +76,14 @@ function smashing_post_class_meta_box( $post ) { ?>
       <input class="form-control" type="text" name="event_town" id="event_town" value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_town', true ) ); ?>"/>
     </li>
     <li class="text_input_group">
+      <label for="event_lat">Google Map Lat</label>
+      <input class="form-control" type="text" name="event_lat" id="event_lat" value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_lat', true ) ); ?>"/>
+    </li>
+    <li class="text_input_group">
+      <label for="event_lng">Google Map Lng</label>
+      <input class="form-control" type="text" name="event_lng" id="event_lng" value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_lng', true ) ); ?>"/>
+    </li>
+    <li class="text_input_group">
       <label for="event_price">Price From</label>
       <input class="form-control" type="number" name="event_price" id="event_price" value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_price', true ) ); ?>"/>
     </li>
@@ -97,6 +112,43 @@ function smashing_post_class_meta_box( $post ) { ?>
     </li>
   </ul>
 <?php }
+
+function organiser_post_class_meta_box( $post ) { ?>
+
+  <?php wp_nonce_field( basename( __FILE__ ), 'phillip_event_nonce' ); ?>
+    <ul class="side">
+      <li class="side_text_input_group">
+        <label for="o_name">Organiser / Business Name</label>
+        <input class="form-control" type="text" name="o_name" id="o_name" value="<?php echo esc_attr( get_post_meta( $post->ID, 'o_name', true ) ); ?>"/>
+      </li>
+      <li class="side_text_input_group">
+        <label for="o_number">Customer Contact Number</label>
+        <input class="form-control" type="number" name="o_number" id="o_number" value="<?php echo esc_attr( get_post_meta( $post->ID, 'o_number', true ) ); ?>"/>
+      </li>
+      <li class="side_text_input_group">
+        <label for="o_email">Customer Contact Email</label>
+        <input class="form-control" type="text" name="o_email" id="o_email" value="<?php echo esc_attr( get_post_meta( $post->ID, 'o_email', true ) ); ?>"/>
+      </li>
+      <li class="side_text_input_group">
+        <label for="o_link">Event Link / URL</label>
+        <input class="form-control" type="text" name="o_link" id="o_link" value="<?php echo esc_attr( get_post_meta( $post->ID, 'o_link', true ) ); ?>"/>
+      </li>
+      <hr>
+      <li class="side_text_input_group">
+        <label for="p_name">Your Full name</label>
+        <input class="form-control" type="text" name="p_name" id="p_name" value="<?php echo esc_attr( get_post_meta( $post->ID, 'p_name', true ) ); ?>"/>
+      </li>
+      <li class="side_text_input_group">
+        <label for="p_number">Personal Contact Number</label>
+        <input class="form-control" type="number" name="p_number" id="p_number" value="<?php echo esc_attr( get_post_meta( $post->ID, 'p_number', true ) ); ?>"/>
+      </li>
+      <li class="side_text_input_group">
+        <label for="p_email">Personal Contact Email</label>
+        <input class="form-control" type="text" name="p_email" id="p_email" value="<?php echo esc_attr( get_post_meta( $post->ID, 'p_email', true ) ); ?>"/>
+      </li>      
+    </ul>
+  <?php
+}
 
 /* Save the meta box's post metadata. */
 function phillip_save_meta( $post_id, $post ) {
@@ -137,6 +189,12 @@ function phillip_save_meta( $post_id, $post ) {
   if( isset( $_POST['event_town'] )){
     update_post_meta( $post_id, 'event_town', sanitize_text_field( $_POST['event_town']) );
   }
+  if( isset( $_POST['event_lat'] )){
+    update_post_meta( $post_id, 'event_lat', sanitize_text_field( $_POST['event_lat']) );
+  }
+  if( isset( $_POST['event_lng'] )){
+    update_post_meta( $post_id, 'event_lng', sanitize_text_field( $_POST['event_lng']) );
+  }
   if( isset( $_POST['event_price'] )){
     update_post_meta( $post_id, 'event_price', sanitize_text_field( $_POST['event_price']) );
   }
@@ -147,8 +205,26 @@ function phillip_save_meta( $post_id, $post ) {
     update_post_meta( $post_id, 'event_description', $_POST['event_description'] );
   }
 
-
-
-
-
+  // Save Organiser
+  if( isset( $_POST['o_name'] )){
+    update_post_meta( $post_id, 'o_name', $_POST['o_name'] );
+  }
+  if( isset( $_POST['o_number'] )){
+    update_post_meta( $post_id, 'o_number', $_POST['o_number'] );
+  }
+  if( isset( $_POST['o_email'] )){
+    update_post_meta( $post_id, 'o_email', $_POST['o_email'] );
+  }
+  if( isset( $_POST['o_link'] )){
+    update_post_meta( $post_id, 'o_link', $_POST['o_link'] );
+  }
+  if( isset( $_POST['p_name'] )){
+    update_post_meta( $post_id, 'p_name', $_POST['p_name'] );
+  }
+  if( isset( $_POST['p_number'] )){
+    update_post_meta( $post_id, 'p_number', $_POST['p_number'] );
+  }
+  if( isset( $_POST['p_email'] )){
+    update_post_meta( $post_id, 'p_email', $_POST['p_email'] );
+  }
 }
