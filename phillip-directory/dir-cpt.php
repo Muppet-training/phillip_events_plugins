@@ -39,7 +39,7 @@ function phillip_register_dir_post_type() {
     'can_export'          => true,
     'delete_with_user'    => false,
     'hierarchical'        => false,
-    'has_archive'        => true,
+    'has_archive'         => true,
     'query_var'           => true,
     'capability_type'     => 'page',
     'map_meta_cap'        => true,
@@ -51,7 +51,8 @@ function phillip_register_dir_post_type() {
     ),
     'supports'            => array (
       'title', 'thumbnail', //'editor', 'author', 'custom-fields', '
-    )
+    ),
+    'taxonomies'          => array( 'category')
   );
 
   // Register the event post type with all the information contained in the $arguments array

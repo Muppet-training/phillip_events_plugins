@@ -51,12 +51,8 @@ function dir_post_class_meta_box( $post ) { ?>
         <input class="form-control" type="text" name="dir_town" id="dir_town" value="<?php echo esc_attr( get_post_meta( $post->ID, 'dir_town', true ) ); ?>"/>
       </li>
       <li class="text_input_group">
-        <label for="dir_lat">Google Map Lat</label>
-        <input class="form-control" type="text" name="dir_lat" id="dir_lat" value="<?php echo esc_attr( get_post_meta( $post->ID, 'dir_lat', true ) ); ?>"/>
-      </li>
-      <li class="text_input_group">
-        <label for="dir_lng">Google Map Lng</label>
-        <input class="form-control" type="text" name="dir_lng" id="dir_lng" value="<?php echo esc_attr( get_post_meta( $post->ID, 'dir_lng', true ) ); ?>"/>
+        <label for="dir_map">Google Map Link</label>
+        <input class="form-control" type="text" name="dir_map" id="dir_map" value="<?php echo esc_attr( get_post_meta( $post->ID, 'dir_map', true ) ); ?>"/>
       </li>
       <li class="text_input_group">
         <label for="dir_travel_check">Travels To Customer</label>
@@ -68,28 +64,28 @@ function dir_post_class_meta_box( $post ) { ?>
         ?>/>
       </li>
       <li class="text_input_group">
-        <label for="dir_summary">Summary</label>
+        <label for="dir_summary">Summary 120 Characters</label>
         <input class="form-control" type="text" name="dir_summary" id="dir_summary" value="<?php echo esc_attr( get_post_meta( $post->ID, 'dir_summary', true ) ); ?>"/>
       </li>
-      <li>
+      <!-- <li>
         <div class="meta">
           <div class="meta-th">
             <span>Description</span>
           </div>
           <div class="meta-editor">
             <?php
-            $content  = get_post_meta( $post->ID, 'dir_description', true);
-            $editor   = 'dir_description';
-            $settings = array(
-              'textarea_rows' => 35,
-              'media_buttons' => false
-            );
-            wp_editor(
-              $content, $editor, $settings
-            )
+            // $content  = get_post_meta( $post->ID, 'dir_description', true);
+            // $editor   = 'dir_description';
+            // $settings = array(
+              // 'textarea_rows' => 35,
+              // 'media_buttons' => false
+            // );
+            // wp_editor(
+              // $content, $editor, $settings
+            // )
             ?>
         </div>
-      </li>
+      </li> -->
     </ul>
 
   <?php 
@@ -156,8 +152,8 @@ function phillip_dir_save_meta( $post_id, $post ) {
   if( isset( $_POST['dir_town'] )){
     update_post_meta( $post_id, 'dir_town', sanitize_text_field( $_POST['dir_town']) );
   }
-  if( isset( $_POST['dir_lat'] )){
-    update_post_meta( $post_id, 'dir_lat', sanitize_text_field( $_POST['dir_lat']) );
+  if( isset( $_POST['dir_map'] )){
+    update_post_meta( $post_id, 'dir_map', sanitize_text_field( $_POST['dir_map']) );
   }
   if( isset( $_POST['dir_lng'] )){
     update_post_meta( $post_id, 'dir_lng', sanitize_text_field( $_POST['dir_lng']) );
@@ -168,7 +164,8 @@ function phillip_dir_save_meta( $post_id, $post ) {
     update_post_meta( $post_id, 'dir_travel_check', 0 );
   }
   if( isset( $_POST['dir_summary'] )){
-    update_post_meta( $post_id, 'dir_summary', sanitize_text_field( $_POST['dir_summary']) );
+    $cut = substr($_POST['dir_summary'], 0, 120);
+    update_post_meta( $post_id, 'dir_summary', sanitize_text_field( $cut) );
   }
   if( isset( $_POST['dir_description'] )){
     update_post_meta( $post_id, 'dir_description', $_POST['dir_description'] );
