@@ -8,7 +8,7 @@
 add_action( 'init', 'phillip_meta_boxes_setup' );
 
 /* Meta box setup function. */
-function phillip_meta_boxes_setup() { 
+function phillip_meta_boxes_setup() {
 
   /* Add meta boxes on the 'add_meta_boxes' hook. */
   add_action( 'add_meta_boxes', 'phillip_add_event_meta_boxes' );
@@ -39,6 +39,8 @@ function phillip_add_event_meta_boxes() {
     'high'         // Priority
   );
 }
+
+
 
 /* Display the post meta box. */
 function event_post_class_meta_box( $post ) { ?>
