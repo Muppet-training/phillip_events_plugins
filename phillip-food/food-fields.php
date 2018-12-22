@@ -28,8 +28,17 @@ function phillip_add_food_meta_boxes() {
 
   add_meta_box(
     'phillip_options',      // Unique ID
-    esc_html__( 'Menu & Experience Options', 'food' ),    // Title
+    esc_html__( 'Quick View Options', 'food' ),    // Title
     'food_post_options_class_meta_box',   // Callback function
+    'food',         // Admin page (or post type)
+    'normal',         // Context
+    'default'         // Priority
+  );
+
+  add_meta_box(
+    'wp_custom_attachment',      // Unique ID
+    esc_html__( 'Upload PDF', 'food' ),    // Title
+    'wp_custom_attachment',   // Callback function
     'food',         // Admin page (or post type)
     'normal',         // Context
     'default'         // Priority
@@ -103,15 +112,48 @@ function food_post_options_class_meta_box( $post ) { ?>
   <?php wp_nonce_field( basename( __FILE__ ), 'phillip_food_nonce' ); ?>
     <ul >
       <li class="text_input_group">
-        <label for="o_vegan_check">Vegan</label>
-        <input class="form-control" type="checkbox" name="o_vegan_check" id="o_vegan_check" value="1" <?php 
-          if(esc_attr( get_post_meta( $post->ID, 'o_vegan_check', true )) == 1){
+        <label for="vegan_check">Vegan Options Avaliable</label>
+        <input class="form-control" type="checkbox" name="vegan_check" id="vegan_check" value="1" <?php 
+          if(esc_attr( get_post_meta( $post->ID, 'vegan_check', true )) == 1){
+            echo 'checked';
+          }
+        ?>/>
+      </li>
+      <li class="text_input_group">
+        <label for="takeaway_check">Takeaway Avaliable</label>
+        <input class="form-control" type="checkbox" name="takeaway_check" id="takeaway_check" value="1" <?php 
+          if(esc_attr( get_post_meta( $post->ID, 'takeaway_check', true )) == 1){
+            echo 'checked';
+          }
+        ?>/>
+      </li>
+      <li class="text_input_group">
+        <label for="gf_check">GF Options Avaliable</label>
+        <input class="form-control" type="checkbox" name="gf_check" id="gf_check" value="1" <?php 
+          if(esc_attr( get_post_meta( $post->ID, 'gf_check', true )) == 1){
+            echo 'checked';
+          }
+        ?>/>
+      </li>
+      <li class="text_input_group">
+        <label for="alcohol_check">Alcohol Avaliable</label>
+        <input class="form-control" type="checkbox" name="alcohol_check" id="alcohol_check" value="1" <?php 
+          if(esc_attr( get_post_meta( $post->ID, 'alcohol_check', true )) == 1){
             echo 'checked';
           }
         ?>/>
       </li>
     </ul>
   <?php
+}
+
+function wp_custom_attachment() {  
+  wp_nonce_field(plugin_basename(__FILE__), 'wp_custom_attachment_nonce');
+  $html = '<p class="description">';
+  $html .= 'Upload your PDF here.';
+  $html .= '</p>';
+  $html .= '<input type="file" id="wp_custom_attachment" name="wp_custom_attachment" value="" size="25">';
+  echo $html;
 }
 
 function organiser_food_post_class_meta_box( $post ) { ?>
@@ -212,12 +254,56 @@ function phillip_food_save_meta( $post_id, $post ) {
   }
   if( isset( $_POST['p_email'] )){
     update_post_meta( $post_id, 'p_email', $_POST['p_email'] );
+
+
+
   }
 
-  // Save Organiser
-  if( isset( $_POST['o_vegan_check'] )){
-    update_post_meta( $post_id, 'o_vegan_check', $_POST['o_vegan_check'] );
+  // Save Venue Options
+  if( isset( $_POST['vegan_check'] )){
+    update_post_meta( $post_id, 'vegan_check', $_POST['vegan_check'] );
+  }else{
+    update_post_meta( $post_id, 'vegan_check', 0 );
   }
+
+  if( isset( $_POST['takeaway_check'] )){
+    update_post_meta( $post_id, 'takeaway_check', $_POST['takeaway_check'] );
+  }else{
+    update_post_meta( $post_id, 'takeaway_check', 0 );
+  }
+
+  if( isset( $_POST['gf_check'] )){
+    update_post_meta( $post_id, 'gf_check', $_POST['gf_check'] );
+  }else{
+    update_post_meta( $post_id, 'gf_check', 0 );
+  }
+
+  if( isset( $_POST['alcohol_check'] )){
+    update_post_meta( $post_id, 'alcohol_check', $_POST['alcohol_check'] );
+  }else{
+    update_post_meta( $post_id, 'alcohol_check', 0 );
+  }
+
+  if(!empty($_FILES['wp_custom_attachment']['name'])) {
+      $supported_types = array('application/pdf');
+      $arr_file_type = wp_check_filetype(basename($_FILES['wp_custom_attachment']['name']));
+      $uploaded_type = $arr_file_type['type'];
+
+      if(in_array($uploaded_type, $supported_types)) {
+          $upload = wp_upload_bits($_FILES['wp_custom_attachment']['name'], null, file_get_contents($_FILES['wp_custom_attachment']['tmp_name']));
+          if(isset($upload['error']) && $upload['error'] != 0) {
+              wp_die('There was an error uploading your file. The error is: ' . $upload['error']);
+          } else {
+              update_post_meta($post_id, 'wp_custom_attachment', $upload);
+          }
+      }
+      else {
+          wp_die("The file type that you've uploaded is not a PDF.");
+      }
+  }
+  
+
+add_action('save_post', 'save_custom_meta_data');
 
 }
 
