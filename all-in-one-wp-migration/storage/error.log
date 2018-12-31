@@ -1,0 +1,795 @@
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/db\/7411f3c6b8ef812e335391be35d04f887d26f6): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/f1\/40f08f38f47e4c09aa22c2dd0aa73008f745d9): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/78\/f5ac513d222b1413267904fff88598a85ef76f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/7b\/e1c114e4b638a3a3d1a00871398d27b8f919ef): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/93\/e2cee9a6f4dd12ef0f02fb945d8fe2c0d7f733): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/de\/5532d5a329be700522b0729ab4e3d498953cc7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5a\/061159ef24806e2218d2d29d1430f68bb59c10): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ae\/80e4fee92babe8212e39046ed349100b0e5576): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ae\/44e48cf6b4926cf5843352e98994d4f301a71f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c5\/ad67a1af5fd0a95091757ecd9c93e2e3151dae): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/22\/2f8cf9a64dd41e3577338273a2102da17d5137): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/4c\/b2616f38130c737bf88df82ca2543afb4c96ff): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/61\/9f41c2893ecc67272668eb886b9580894c2528): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/61\/3104457abe57b9831b9f5595d3145031641574): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/61\/689d7e8fac9d264dfb2b24217256dfb65cf55d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/da\/c9f44803242d7dcb93c745a3a0d594e0e52e36): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/17\/b2d0539eff4bd40b0954dc3bea0b770599d194): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e2\/f9027437a3eafe9b92a0b96f0b8ec27a7c1426): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/09\/b3d7423d86945a8bd94721d8cff9c0dd9f4cfb): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/40\/3b746fcc4963ea6fb88b50995a85a495f2898c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/0c\/7439917f0e0e039a14fa6dc16dc13339d1cbed): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/6a\/03709170220dda8b5f21e37844d9f96728f865): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/6a\/fd84110028a55f4a8e3f40dedbc5643471fbd5): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/1b\/23d510e5eab4009768381a8eb8bfb0ced514a9): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/7c\/a75be37da5333a9a140e1c38a4495e62a50187): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/7c\/b7ecad948c2c910ece0cd205a6fa9abc98cf27): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ac\/d5b337c457de4e23c83d8a97daf40908e3e65d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/96\/9fee2f0301741366bc3f7c54feeb91c0c3be9d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/96\/dfd2f7913b1f5f2585727f2d05fc107495d15b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e3\/b26cdbce1265dd5ca61e4029cee88f5ee9c24e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e4\/a4c39d716462d20017ace0bcf9e07001a54a0c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/20\/36ef92c040e89da82dc5d71ec98a08b82e5030): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/05\/94a15dbf5a5fc00de818c0a2110cb0785d3178): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/47\/f06a2bcf46fe5e84016ac9e24ca470aed508c0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/47\/5a53e7bf46903ef866326edb0995a2671ad739): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/3a\/cacabb1a95197e80bc98c523d2aafdf4cad5a0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/cc\/54f9519bb856aeafc2fc5fbe9f514c7786f97d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/cc\/dc4d8ef1e14694190b8822e4c0f4dcf3feac35): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/14\/6d2d4826a031df3acdc072ae583e2f6a0512d6): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/13\/760c5cad3d6eb6926d89d68774ddfc8a80d5b2): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/7a\/9e632ae5ebdec85074a3e8901280865fe71c46): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/7a\/b4e0b111528028dd4eb6ae43209d783f83be9b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/8e\/bf8f27508770be196aebd9c9b643da734b8d05): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/21\/6ab7e4abb766f2c8aa6c09b3bd22b141dcd025): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/21\/1a1ae7d83c60fc37f322090c95874f7b8e022a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/1a\/2b0402605b20e99cc48c0796dc35934f366de5): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/1f\/793a657e36a3236ac60da18c2dc43033f5baf0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/1f\/a8629eb6ed416d4303e2dec32d17f383d22a58): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/50\/6a256c66c3eb76f06b6b79988c22c2757a47ac): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/50\/6fec92c02883817dbaaaab142eb7132ce3e59c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/50\/7cc5951ec22a8d05c42f9a7e33841974395807): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/50\/fea4656fa7ddac0622c9944cd1d4e62e6afc35): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5c\/41edc445cd3b5f844e61a54a4ad8a7cb999830): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/83\/28a364ddaa1f9912ab7a06ead46411131898f1): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/83\/33692d9e2f19a4e64d0bf3c7a8251d578118a7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/75\/7367a26fef6e8da123df03a96b18c6c91428f7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5f\/c52263ac9af4ba4e673d0b048534297d69da28): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5f\/d97e3c1cecfc48f470d5e43762c8355b177ac0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/36\/7723e8e1093acaf333993b8e44dba5687b7d91): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/84\/ad69aece64f284969590f5c7a3e71c9c265c16): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/3e\/fef9bdde1dcdc421e715d658175855be9917f7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/3e\/24953068022ed8017c3e22f282db16cc8194e7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/aa\/0a57667d6c8ecb2dc30cd708f7512ea6032ac3): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/aa\/628098ceb4ec4b1b6035be0ad6b6bbb4c295f8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/aa\/1634c255034b34ae9be86a6a28b50d6e7d2af2): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/bb\/8639f7afa1cc76fc474fc28d303c4b043ab1a4): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/bb\/ab0242fd0011b903b7c15cd41d028eaac3b6ca): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ce\/e5f931303a282b18b58b5dd6012ab5e861f54b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/04\/418b1b1b0961275390ed65bfac44b3978206aa): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/bf\/70322450fd334d1a07a714cc5a46ed1f08e30a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/bf\/1b0f337ddcafd3125ffd14f6523e6fa210372f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/88\/82a4ee44a655d36d8bafdb7bd48b836030f90f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/9c\/486a2819b98504f7c9b4b0ebacfab1888d05d3): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c8\/43237c056886f9b5f324b0d0fe8e121796e288): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d3\/22a3fa5077621c5896615d1a5f8b1c12b97da0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d3\/4077ed9676b5c43f23e71f8a3838e09e6fc102): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d3\/4734503e3ae29e3c1c27d93a1f0341f62f1571): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d3\/10b86a54eed531f7b78dd1ef0df312e0e65745): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/2d\/c5671deca64744120789043e60080f24298c11): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/2d\/ba475c00a8b25de1fda9115c549f751195fa6f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/81\/ad8a7959668c6af6771d026e9a46d97703c88e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/81\/240a98539449a2dd5083bcb349c8fce368cb7a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/81\/200c600956c55172ab92d0fd6f5abcb3e7e5c3): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/35\/e1e585266683e18b88f9072d79b716a4f836c8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e6\/9de29bb2d1d6434b8b29ae775ad8c2e48c5391): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/3c\/f415cbd4fee664a61c97c83fc9009fdd3713a8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/3c\/faa7fa0fbd7bb9458cfa21b72ae9e30475c885): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/02\/3a12248f4151a2b1d360ca3f0796ce9c02b69e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/02\/fe27f10c000aaf4d9ff1112f6b93305c4e1ff7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b9\/68e716e79a32ca977be5e4d3fecc472d4a37ae): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/82\/a0fe4be41ce86ceba2e3241679d9501dd294d4): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/4b\/1570fa4621c6e4075522146be855a467e8aaa8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/85\/ac6244d2dbb0620ddc094ff2b79df0a33a93b2): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d2\/4a84edad9528f372f4052d38b1518aff35bcc4): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d7\/fd4ffc327536a7b89133c68e7fefdb0a95e87f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e8\/09d1a655e0af06aa899377c2040041bd70b5c5): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e8\/8e60c2da5bd33adde1c0cd21d6581fced02bea): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/fd\/05a4dd6f75380ed58971d389f29c34782be3ad): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/94\/8e225db9a24809a91be1b02b0a01b34744cd3a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ad\/3eed584b960b7d57472a0863f4b8230cd42c20): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/54\/b80119538738f7ea4cd4125043e7a608a084d5): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/01\/276a0d44fb0a2223ece28562bf8970546e34d6): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/01\/cfa536a7cd7eee26b99866dcbef8640dca44f6): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/23\/023f47e925767a5526ed1ef8d1d11f590ab05c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/23\/cb790338e191e29205d6f4123882c0583ef8eb): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/23\/408f0c875d78be4a5b66a6528ede69efc52ac0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/23\/070897e58c3c2b8309cd071420e9329eeec16a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/27\/7376890f5cfac03c1c083694304bf9cd467daf): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/27\/918b3ef850a1b16747688755d1a2448d11f8a4): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/27\/3fdfe75f23cb832013f09d8e6f9d50654e0dee): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ea\/7a35de4aa4aa41d805c34325f0b1636773de37): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ea\/1846956ed48a085431fc3a032e00894b80857e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/45\/47c067b3e3b1e65d8806b5b4cb9e9b686db030): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/98\/e2dd225bb369a28bc8c84a7f69df9f69e35fbc): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b3\/acfdd9625155c058c6c8649bb13d5e051fb987): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/a7\/e3220d64976a14357d8a551af00920f95ddc00): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/9f\/2f8d1adab6cadb22326679b8fae9b56d561b41): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/8d\/c289b86e3f90d3a7afec422350a547d875736d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c9\/06dbe7dc7ba47b530a81e2139d700b780693ec): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c9\/00358b7d0378334e37509e92ac8c2c9300e332): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/59\/6d2f562b1f7eb0e6aae0599b5f2af59fc663c0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/59\/216a24bc4a127e6e1973f8574318e917b2a398): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/59\/3efb539e45de3b036e43fbb41886e834b98402): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/49\/f152195d41b1f884a22c881ba1e11cc72c06fa): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/0d\/22593fa0f985ed35ec235766c8d297ed169176): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d6\/f8f6e1567decddeed1cbeccc849e417221c367): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/6f\/9d8602a10d4449fbdc8c62d0c5ed0e60d9a00a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/16\/cfff044ec14c5e2bd3b576ab37476465de7f0b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/a2\/52ae162ce90cc0b6c4afdd9865dd094ba1c407): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/a2\/98f1544225c214b1b8f220551d1fb89ade5cc3): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/31\/d8c8aa8de0a58e11b8bf1dbbff4f3dac3f7926): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/9d\/6100d032c291efe2cfd694c7bdf7f0355c1b0d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/30\/2891ea499eed575b21c79333b7f26c971d05f7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/30\/87f5a255e3a2525fa5faadcc78779b194658cd): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/30\/a647a149a7312b670bed9a6ef12bc2bc0b6da5): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/72\/caf77650d0e4b734d9210731de58e2530e4650): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/72\/21c4671bb0b4b543229839d9d36e91f7fb20aa): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/42\/68a69d7f05dd82c6f4f112397d497db92d0f8c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/42\/81f9f2d80527cad74fe70da387f396b3718205): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/42\/42a296856902a0cbc3b0aceb44e6b5687aa7f5): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/42\/0d67fe31530f330b22121f8958508f1e2885cd): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/12\/8d7dab0c0c85bef35106cf8ee951f7d355ae7e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/12\/2c07321da2c9c0fc18b78dfa4bc56ff1728d9b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/64\/34f5d609eca3249bab7efa3c93f7b5aed08eb7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/64\/b2c17f9d9dfb005e3a06e18f567f20a3d36b9a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/64\/a428399486b3909ed92e078a80faee51352b14): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5b\/ddc87ca3f27b55706acd9e8d8b4a51cce84ec7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5b\/d633f0be719b986e1f56e271d864c4863cd3e7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5b\/1e3ebb0219acac0a1b14b0d153f2998c6d80f4): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5b\/ca8be7cd1e15cb9bffd01423ee238e277f3d13): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5b\/3e961e0bc7790527990ed6ea7712632f32858b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/26\/55a2603bf43b20c6ee9a6513444f5d3b30913d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/53\/3882b9eba58445d4339e02a23a3e93aa43716e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/a1\/0a9e371d7951d2f5721635c18843e6df2815e9): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/92\/5ddb20a76ae3ddef9d67c7e5a25ea05a26590b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/92\/86371af21b4ca9b0d1eb41aaad24d22a9c30cb): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c0\/d1e169a91342a3730509eacc2bf1de2307203c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/2a\/2552a52c8ece9dd8092f81660016c1af19ff07): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/a4\/429b42fd0100e2c0064133ebef4c4833854091): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ba\/37f41ec5a61bb6a539796fbe5f5795e47a1d19): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/79\/304d6a697baa8bef46e85630847b25e91b7591): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/46\/9887ccac5cb596a4450f578e9224b548eaad75): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/46\/74a25e06edc2ef0554eb1545f842f5af4c8c84): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/46\/ec1762de17bc7026056759275a5a2e1e836a11): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/f5\/7d5b69d474ff71ff49883438ab5ee98685e7d2): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d4\/424914a10be83ee7a49ce6e68a9454c08655f4): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d4\/c7d4a8563209b0fd425999ff91e57754980126): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/4f\/4066c7ca606683240957d764322f843070f88b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/9b\/3c1584eefa8360dfe4df439bbf4609c218855b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/9b\/21c1314791e282f07646c1c31956b13f7f615d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/f7\/98dafe7348e94326f3799e1286b6921607833f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/f7\/2ce6674960fb5876750f0340336aee7aa5d163): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/56\/c8fbc3ef31e21868581ce68647255eb2949f6a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d0\/245bcea65e15225ef378b1b6854d6fad32695e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ec\/33a657deadd1448aec36b4db3eb0b9c8708dd4): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/ec\/fd084188b8a854358d111332c09062e8e27957): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/df\/3900698b34e33aea4c9391f506b080aafba650): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/68\/addc4bbd3efeec87fcf2cafd451cb87600868f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/91\/118e55cc0f8536978f7f0757c651f6b4d53e23): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/76\/689f9ae8f97b526176505926ec9dedb5fa0219): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/76\/40d4e2d144b0d302de35b8a31b032fa2e693d7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/19\/17b139d93b2c478b9c0d995cb71ec5b2cbd414): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/be\/c1c7454aba19d3cb1b95d4bdc1a0d6eb339edd): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/73\/7e9d7eb8b252625db7831ad4468a7344dc8c26): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/73\/102709eee1889f841bfd612e0ffe1f081ac596): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/73\/05c0992b7c0f299fb1f322b54af447ca1fa05d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/00\/37752e09c5ddddb6357594537f0324810b771c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e9\/87c292108f3afd10bdcff60f5449fedc4db684): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e9\/1127e9373888eedff2103b2c1725ce1a3c41cd): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/60\/121630e7b8d5b04db6bff19aa7a46245c951ec): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/03\/40dd453af397de547a1e9656e28b37f5a5c3a7): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/03\/b5412dcfdd72f5a1618a0a3b360aaa8d6c8156): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/11\/105a88353137a3e14d87d0e85fb216438da52e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/11\/721379d883c40b6c48a73ab5dd53b387b873ab): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/74\/2f169746dbc39e777d9f554bcb8eb7fb64f03c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/18\/d99c4e1969d949b9f01a586839532664154f6b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/18\/e003110255715fad04a24d0419b74220a58ed1): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b4\/6086d657d1477b693b2fee84e7658949fd282f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/0f\/ba92fd2e475b49080dd6d7da1d4619d93f846f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/95\/a5b4d2165af4768c603b617e56b3843ee429d9): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/24\/f7adb891f3e16d839a1b30eb89e64badad55b1): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/24\/0fbf0e5292312bf1bd3f59df3650c34fa3f82b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c6\/f92a26af3e017cd8281db9915ca8989967384a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/25\/78a21c5f94a451a09c0146b7dceb115b881cfc): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/25\/f930ad8ce6a89627a9af3dde7dca0b790322dd): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/25\/209864b213e606bb2643088905a25866f7b848): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/57\/158c4f6360f995c8c991f4c305b5fe8d7cef76): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/57\/8ce0255ab3d7e12586f6cec18cabddb06616bf): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b5\/3c273e378f6632fd75e0932b5b954c09050f58): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b5\/bf15a0ca0dc89d0cbe819958993593f7dc518d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/89\/5c89bd3b5a3a58d808dbcb49b28dd21d5098c9): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c1\/773b8c946035dd58c376d9cf02419ba15ba795): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c1\/7c6fe474377d51bb128d7e41fdf582547de7ee): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/6b\/9187e7488beae1d22fbfdcdd38a1d20ab82e38): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/6b\/b2a951d827ba0d61e969b80b2b18d19af9822c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b8\/5a0de517415b749167e2aa239c6300f70363bb): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/f2\/0e3719abc743e72bade3bf5f8b46411e80ef42): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/f2\/dba39ad3ffdab43cdd79c07d3ef9c1642a5bee): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/fc\/b6f07ce19704bce6c79b4114846835be6d04b8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/fc\/da0c119e562b995ef5e765f368d709f1198517): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/38\/505685eb42f84ccb10d0ded7137fe334aea5e8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d5\/67aeae46a471fae95209484570043d9e8571ea): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d5\/659e02d174d45315470014e966d243f5e9bd12): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d5\/39fafb0b7a33990769376d0159035571775cc8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e0\/8db7e64152be77c569db0f6c882b98417344f2): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/6e\/dc36393c7a435d7f67cbfe114af8161903e525): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/f3\/d93b57177c94e3893fb28726a191df51ec6c38): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/44\/4b6b60679ace54cad6fb2664da2cdb309fa21c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/44\/2a6071b66ad4cd2be3efa5789f79ce1e8fa5bc): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/08\/f1623e621da06985a935fb53d83508407fe335): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d8\/d263cbd6a567864417e5f7abeb01ec1d6422fa): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/d8\/4505861f6fb29de063b048ff289dc548c99e48): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/33\/7a65ab5ba7ecf19bdc9c149aec184e5da5bd1c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/3f\/fa7cc8139708138726b009b743225d659d6da5): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/3f\/12aced4cd95f4e2db275427928c04c0d9e840c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/2f\/c46ed61c21551c1b8cfdc827ffed53249ed427): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/2f\/688149b1681eb733e260bcf14c30ead1baf2f0): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5d\/63827f31bbe7aa057a1742b4c04723b50aafbb): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5d\/ea0f154e4c9de63229e0d9ea66460c2f74f084): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/5d\/b6ab4efcd864284c2e6e1945479d59e81ab224): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/55\/c84386cc7dc89c1d0283ba743f0956f17dc972): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e7\/65590e8bf81eda3572a6ddc27c73694ffc0bf8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e7\/7a4cc943648d420bb2a7438065dd54a94c5e47): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/e7\/ab77c1480b555db01bd56f62bbb3f37a127725): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/58\/898906cfe25a477b420ecd3500587984d01f6f): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/66\/e8606c896e84160dfa66903f3fb2c3445cd2cd): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c2\/99bfe8c652baa5fbbc97994ac78250755f10cc): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c2\/19274b6d8a47d0f7f32a4786bd642433ddacbc): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/c2\/b6ef27ac6c89953cfa918fc9d21362e06d7e5a): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/fe\/82de07020d53d2956f3fb2f500b1580ab8a85d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/fe\/5c646d9989a05459e85f50b4ab7bfb0683a443): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/fe\/a9328a4b23a6731b44a930350c5d66cc7f4df3): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/fe\/012a7810417ebd04d25a735c934b7b30cade47): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b2\/db2126738033e5e1b950fd1fcc2e47d73ae66d): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/b2\/5e6cc2ce3f438e4764931e3d6c9e1fbe177d9c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/8f\/4d5dde54c7ca1673c1ec5d07878b8173ad3564): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/8f\/4cf7eadd280e94eea205542390f7f6928f56ce): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/8f\/feff2f5340fa38f596376770c52173709561b8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/8f\/2bb637f18a2eb0cc282d51a917ec8f9f67183c): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/86\/20e72007f37d1661a9c987d7d14480deb0ec74): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/a5\/0f444154db7bc366c05631d8c0cedfa1e38d4b): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/2e\/774b25f88ef6fce22108bd23df6639e3a9af4e): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/0b\/642ed33cae55051d672326153438a706cacf88): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/0b\/a7f59b5d1ae5ff3993383c58a625cb40d107ea): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Dec 31 2018 15:14:53
+{"Number":2,"Message":"fopen(\/Applications\/MAMP\/htdocs\/pit\/wp-content\/themes\/phillip\/.git\/objects\/9e\/115c88cfe03d92c37d63bef402db277122bef8): failed to open stream: Permission denied","File":"\/Applications\/MAMP\/htdocs\/pit\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+

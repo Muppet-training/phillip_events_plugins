@@ -87,7 +87,7 @@ function event_post_class_meta_box( $post ) { ?>
     </li>
     <li class="text_input_group">
       <label for="event_price">Price From</label>
-      <input class="form-control" type="number" step=".01" name="event_price" id="event_price" value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_price', true ) ); ?>"/>
+      <input class="form-control" type="number" name="event_price" id="event_price" value="<?php echo esc_attr( get_post_meta( $post->ID, 'event_price', true ) ); ?>"/>
     </li>
     <li class="text_input_group">
       <label for="event_summary">Summary</label>
