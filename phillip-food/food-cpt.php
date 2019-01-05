@@ -8,7 +8,7 @@ function phillip_register_food_post_type() {
   // Set various pieces of text, $labels is used inside the $args array
   // Set the labels, this variable is used in the $args array
   $labels = array(
-    'name'               => $plural . ' & Drink',
+    'name'               => 'Eating Out',
     'singular_name'      => $singluar,
     'add_new'            => 'Add New ',
     'add_new_item'       => 'Add New ' . $singluar,

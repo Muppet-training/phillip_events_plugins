@@ -35,14 +35,14 @@ function phillip_add_food_meta_boxes() {
     'default'         // Priority
   );
 
-  add_meta_box(
-    'wp_custom_attachment',      // Unique ID
-    esc_html__( 'Upload PDF', 'food' ),    // Title
-    'wp_custom_attachment',   // Callback function
-    'food',         // Admin page (or post type)
-    'normal',         // Context
-    'default'         // Priority
-  );
+  // add_meta_box(
+  //   'wp_custom_attachment',      // Unique ID
+  //   esc_html__( 'Upload PDF', 'food' ),    // Title
+  //   'wp_custom_attachment',   // Callback function
+  //   'food',         // Admin page (or post type)
+  //   'normal',         // Context
+  //   'default'         // Priority
+  // );
   
   add_meta_box(
     'phillip_food_organiser',      // Unique ID
@@ -73,36 +73,13 @@ function food_post_class_meta_box( $post ) { ?>
         <input class="form-control" type="text" name="food_map" id="food_map" value="<?php echo esc_attr( get_post_meta( $post->ID, 'food_map', true ) ); ?>"/>
       </li>
       <li class="text_input_group">
-        <label for="food_travel_check">Travels To Customer</label>
-        <input class="form-control" type="checkbox" name="food_travel_check" id="food_travel_check" value="1" <?php 
-          if(esc_attr( get_post_meta( $post->ID, 'food_travel_check', true )) == 1){
-            echo 'checked';
-          }
-        ?>/>
+        <label for="food_menu">Food Menu Link</label>
+        <input class="form-control" type="text" name="food_menu" id="food_menu" value="<?php echo esc_attr( get_post_meta( $post->ID, 'food_menu', true ) ); ?>"/>
       </li>
       <li class="text_input_group">
         <label for="food_summary">Summary 120 Characters</label>
         <input class="form-control" type="text" name="food_summary" id="food_summary" value="<?php echo esc_attr( get_post_meta( $post->ID, 'food_summary', true ) ); ?>"/>
       </li>
-      <!-- <li>
-        <div class="meta">
-          <div class="meta-th">
-            <span>Description</span>
-          </div>
-          <div class="meta-editor">
-            <?php
-            // $content  = get_post_meta( $post->ID, 'food_description', true);
-            // $editor   = 'food_description';
-            // $settings = array(
-              // 'textarea_rows' => 35,
-              // 'media_buttons' => false
-            // );
-            // wp_editor(
-              // $content, $editor, $settings
-            // )
-            ?>
-        </div>
-      </li> -->
     </ul>
 
   <?php 
@@ -111,6 +88,14 @@ function food_post_options_class_meta_box( $post ) { ?>
 
   <?php wp_nonce_field( basename( __FILE__ ), 'phillip_food_nonce' ); ?>
     <ul >
+    <li class="text_input_group">
+        <label for="food_travel_check">Travels To Customer</label>
+        <input class="form-control" type="checkbox" name="food_travel_check" id="food_travel_check" value="1" <?php 
+          if(esc_attr( get_post_meta( $post->ID, 'food_travel_check', true )) == 1){
+            echo 'checked';
+          }
+        ?>/>
+      </li>
       <li class="text_input_group">
         <label for="vegan_check">Vegan Options Avaliable</label>
         <input class="form-control" type="checkbox" name="vegan_check" id="vegan_check" value="1" <?php 
@@ -147,14 +132,14 @@ function food_post_options_class_meta_box( $post ) { ?>
   <?php
 }
 
-function wp_custom_attachment() {  
-  wp_nonce_field(plugin_basename(__FILE__), 'wp_custom_attachment_nonce');
-  $html = '<p class="description">';
-  $html .= 'Upload your PDF here.';
-  $html .= '</p>';
-  $html .= '<input type="file" id="wp_custom_attachment" name="wp_custom_attachment" value="" size="25">';
-  echo $html;
-}
+// function wp_custom_attachment() {  
+//   wp_nonce_field(plugin_basename(__FILE__), 'wp_custom_attachment_nonce');
+//   $html = '<p class="description">';
+//   $html .= 'Upload your PDF here.';
+//   $html .= '</p>';
+//   $html .= '<input type="file" id="wp_custom_attachment" name="wp_custom_attachment" value="" size="25">';
+//   echo $html;
+// }
 
 function organiser_food_post_class_meta_box( $post ) { ?>
 
@@ -219,6 +204,9 @@ function phillip_food_save_meta( $post_id, $post ) {
   }
   if( isset( $_POST['food_map'] )){
     update_post_meta( $post_id, 'food_map', sanitize_text_field( $_POST['food_map']) );
+  }
+  if( isset( $_POST['food_menu'] )){
+    update_post_meta( $post_id, 'food_menu', sanitize_text_field( $_POST['food_menu']) );
   }
   if( isset( $_POST['food_lng'] )){
     update_post_meta( $post_id, 'food_lng', sanitize_text_field( $_POST['food_lng']) );
